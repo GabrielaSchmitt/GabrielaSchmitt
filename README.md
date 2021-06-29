@@ -27,10 +27,10 @@
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=react'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&theme=react'>
     </td>
   </row>
 </table> 
