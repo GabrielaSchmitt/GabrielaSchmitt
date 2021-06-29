@@ -1,8 +1,8 @@
 ## Oiii! Eu sou a Gabriela Schmitt. 
 <div>
-  <a href="https://github.com/gabrielaschmitt">
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+  ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
+  <a href="https://github.com/gabrielaschmitt">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a>
 </div>
 <div style="display: inline_block"><br>
