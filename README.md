@@ -22,3 +22,15 @@
 
  
 </div>
+ 
+ <table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table> 
