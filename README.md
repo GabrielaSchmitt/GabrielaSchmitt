@@ -1,5 +1,18 @@
 ## Oiii! Eu sou a Gabriela Schmitt. 
  <div>
+    <table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=react'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&theme=react'>
+    </td>
+  </row>
+</table> 
+ 
+<div>
   <a href="https://github.com/gabrielaschmitt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -22,15 +35,3 @@
 
  
 </div>
- 
- <table align="left">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=react'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&theme=react'>
-    </td>
-  </row>
-</table> 
