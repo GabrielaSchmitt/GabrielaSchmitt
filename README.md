@@ -1,17 +1,4 @@
 ## Oiii! Eu sou a Gabriela Schmitt. 
- <div>
-    <table align="left">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=react'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&theme=react'>
-    </td>
-  </row>
-</table> 
- 
 <div>
   <a href="https://github.com/gabrielaschmitt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,11 +14,11 @@
 </div>
   
   ##
- 
+
+##Contact me:
 <div> 
   <a href="https://www.instagram.com/gabs_schmitt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielacristinaschmitt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
 </div>
