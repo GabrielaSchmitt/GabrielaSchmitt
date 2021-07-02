@@ -2,6 +2,7 @@
 <div>
   <a href="https://github.com/gabrielaschmitt">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true"/> </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
