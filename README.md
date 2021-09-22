@@ -4,27 +4,25 @@
  <div style="display: inline_block" >
   <a href="https://github.com/gabrielaschmitt"><img height="172em"src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=dracula&include_all_commits=true"/><img height="172em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=16&theme=dracula"/>
 </div>
- <h3>Tecnologias que desenvolvo</h3>
-  <div style="display: inline_block" align="left">
+ 
+## Tecnologias que desenvolvo
+  <div style="display: inline_block" align="center">
   <img align="center" alt="Gabi-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabi-Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-C"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg">
 </div>
-  <hr>
-   
-  
-  ##
-
-## Contact me:
-<div> 
+  </hr>
+ 
+ ## Contact me:
+<div align="center"> 
   <a href="https://www.instagram.com/gabs_schmitt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielacristinaschmitt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-  
+ 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/gabrielaschmitt/count.svg" />
