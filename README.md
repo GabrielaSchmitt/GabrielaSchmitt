@@ -14,7 +14,7 @@
   <img align="center" alt="Gabi-C"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg">
   <img align="center" alt="Gabi-SAP"                           src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <img align="center" alt="Gabi-ShellScript"                   src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-   
+  <img align="center" alt="Gabi-MySql"                         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   </hr>
  
