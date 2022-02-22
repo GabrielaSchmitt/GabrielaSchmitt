@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFA500&size=25&center=true&vCenter=true&lines=Hello!++Nice+to+meet+you+%3AD)](https://git.io/typing-svg)
 
-<hr>
  <div style="display: inline_block" >
   <a href="https://github.com/gabrielaschmitt">
    <img height="172em"src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=swift&include_all_commits=true"/>
@@ -19,7 +18,6 @@
   <a href="https://www.sap.com/" target="_blank"> <img align="center" alt="Gabi-SAP"      src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <a href="https://dev.mysql.com/" target="_blank"> <img align="center" alt="Gabi-MySql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-  </hr>
    
  ## Contact me:
 <div align="center"> 
