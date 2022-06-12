@@ -20,6 +20,7 @@
   <a href="https://www.sap.com/" target="_blank"> <img align="center" alt="Gabi-SAP"      src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <a href="https://dev.mysql.com/" target="_blank"> <img align="center" alt="Gabi-MySql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
    <a href="https://getbootstrap.com/" target="_blank"> <img align="center" alt="Gabi-Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="Gabi-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
    
  ## 📫 Reach me on
