@@ -1,13 +1,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F45C44&size=25&center=true&vCenter=true&lines=Hello!++Nice+to+meet+you+%3AD)](https://git.io/typing-svg)
-<!--
+
 <br>
  <div style="display: inline_block" >
   <a href="https://github.com/gabrielaschmitt">
-    <img height="172em"src="https://github-readme-stats.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=swift&include_all_commits=true"/>
-   <img height="172em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=16&theme=swift"/> 
+    <img height="172em"src="https://github-readme-stats-nine-beta-13.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=swift&include_all_commits=true"/>
+   <img height="172em"src="https://github-readme-stats-nine-beta-13.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=16&theme=swift"/> 
 </div>
-<br> -->
+<br> 
+ 
+ <!-- comentario -->
  
 ## 💻 Technologies & Tools
   <div style="display: inline_block" align="center">
