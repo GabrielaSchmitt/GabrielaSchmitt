@@ -26,6 +26,9 @@
    <a href="https://getbootstrap.com/" target="_blank"> <img align="center" alt="Gabi-Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="Gabi-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
    <a href="https://www.twilio.com/pt-br/" target="_blank"> <img align="center" alt="Gabi-Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
+   <a href="https://www.mongodb.com/atlas/database" target="_blank"> <img align="center" alt="Gabi-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    
+    
 </div>
    
  ## 📫 Reach me on
