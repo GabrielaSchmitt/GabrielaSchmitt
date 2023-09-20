@@ -36,10 +36,11 @@
   <a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
- 
+
+ <!-- 
  ## :detective: Profile Visits  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/gabrielaschmitt/count.svg" />
  </p>
   
- <!-- ![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg) -->
