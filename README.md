@@ -37,4 +37,9 @@
 
 <br>
 
+  ![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+<br>
+
 ![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg)
