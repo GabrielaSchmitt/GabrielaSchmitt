@@ -35,4 +35,4 @@
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://www.twilio.com/pt-br/)
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
 
-<!-- ![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg)
