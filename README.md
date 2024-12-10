@@ -9,40 +9,30 @@
  <!--  <img height="172em"src="https://github-readme-stats-nine-beta-13.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=16&theme=swift"/>  -->
 
 </div>
-<br> 
- 
- <!-- comentario -->
- 
-## 💻 Technologies & Tools
-  <div style="display: inline_block" align="center">
-  <img align="center" alt="Gabi-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabi-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://www.javascript.com/" target="_blank"> <img align="center" alt="Gabi-Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"> <img align="center" alt="Gabi-C"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg">
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img align="center" alt="Gabi-ShellScript" height="40" width="40"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"> 
-  <a href="https://www.sap.com/" target="_blank"> <img align="center" alt="Gabi-SAP"      src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-  <a href="https://dev.mysql.com/" target="_blank"> <img align="center" alt="Gabi-MySql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <a href="https://www.mongodb.com/atlas/database" target="_blank"> <img align="center" alt="Gabi-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <a href="https://getbootstrap.com/" target="_blank"> <img align="center" alt="Gabi-Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="Gabi-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <a href="https://www.twilio.com/pt-br/" target="_blank"> <img align="center" alt="Gabi-Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"> 
-  <a href="https://kotlinlang.org/" target="_blank"> <img align="center" alt="Gabi-Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> 
-   
-</div>
-   
- ## 📫 Reach me on
-<div align="center"> 
-  <a href="https://www.instagram.com/gabs_schmitt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielacristinaschmitt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+<br>
 
- <!-- 
- ## :detective: Profile Visits  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/gabrielaschmitt/count.svg" />
- </p>
+##  🌐 Connect  <br />
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-schmitt-364608207/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gab.schmitt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gab.schmitt/" height="30" width="40" /></a>
+</p>
+
+<br>
   
-![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg) -->
+## :hammer_and_wrench: Languages and Technologies  <br />
+[![HTML](https://skillicons.dev/icons?i=html)](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+[![CSS](https://skillicons.dev/icons?i=css)](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/atlas/database)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://www.twilio.com/pt-br/)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
+
+<!-- ![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg) -->
