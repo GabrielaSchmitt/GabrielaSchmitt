@@ -14,8 +14,10 @@
 
 ##  🌐 Connect  <br />
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-schmitt-364608207/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gab.schmitt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gab.schmitt/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/gabriela-schmitt-364608207/"/></a>
+<a href="https://www.instagram.com/gab.schmitt/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/gab.schmitt/"  /></a>
+<a href="mailto:gabitraits@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:gabitraits@gmail.com"  /></a>
+<a href="link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=latex" alt="link"  /></a>
 </p>
 
 <br>
@@ -32,6 +34,13 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
+[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![opencv](https://skillicons.dev/icons?i=opencv)](https://www.opencv.org/)
+[![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://www.twilio.com/pt-br/)
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
 
