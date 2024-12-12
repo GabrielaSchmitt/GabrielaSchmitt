@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/gabriela-schmitt-364608207/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/gabriela-schmitt-364608207/"/></a>
 <a href="https://www.instagram.com/gab.schmitt/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/gab.schmitt/"  /></a>
 <a href="mailto:gabitraits@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:gabitraits@gmail.com"  /></a>
-<a href="link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=latex" alt="link"  /></a>
+<a href="http://lattes.cnpq.br/0833133658201960" target="blank"><img align="center" src="https://skillicons.dev/icons?i=latex" alt="http://lattes.cnpq.br/0833133658201960"  /></a>
 </p>
 
 <br>
