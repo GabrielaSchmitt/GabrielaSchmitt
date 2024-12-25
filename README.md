@@ -41,7 +41,8 @@
 [![opencv](https://skillicons.dev/icons?i=opencv)](https://www.opencv.org/)
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://www.twilio.com/pt-br/)
+[![Streamlit](https://skills-icons.vercel.app/api/icons?i=streamlit)](https://streamlit.io/)
+[![Twilio](https://skills-icons.vercel.app/api/icons?i=twilio)](https://www.twilio.com/pt-br/)
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
 
 <br>
