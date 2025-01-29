@@ -43,7 +43,7 @@
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Streamlit](https://skills-icons.vercel.app/api/icons?i=streamlit)](https://streamlit.io/)
 [![Twilio](https://skills-icons.vercel.app/api/icons?i=twilio)](https://www.twilio.com/pt-br/)
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
+[![SAP](https://skills-icons.vercel.app/api/icons?i=sap)](https://www.sap.com/)
 
 <br>
 
