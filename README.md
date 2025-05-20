@@ -44,6 +44,7 @@
 [![Streamlit](https://skills-icons.vercel.app/api/icons?i=streamlit)](https://streamlit.io/)
 [![Twilio](https://skills-icons.vercel.app/api/icons?i=twilio)](https://www.twilio.com/pt-br/)
 [![SAP](https://skills-icons.vercel.app/api/icons?i=sap)](https://www.sap.com/)
+[![MatLab](https://skills-icons.vercel.app/api/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
 
 <br>
 
