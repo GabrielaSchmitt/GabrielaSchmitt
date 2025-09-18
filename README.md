@@ -5,7 +5,7 @@
  <div style="display: inline_block" >
   <a href="https://github.com/gabrielaschmitt">
     <img height="172em"src="https://github-readme-stats-nine-beta-13.vercel.app/api?username=gabrielaschmitt&show_icons=true&theme=swift&include_all_commits=true"/> 
-   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=7&theme=swift&include_all_commits=true"/>
+ <!--    <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=7&theme=swift&include_all_commits=true"/>  -->
  <!--  <img height="172em"src="https://github-readme-stats-nine-beta-13.vercel.app/api/top-langs/?username=gabrielaschmitt&layout=compact&langs_count=16&theme=swift"/>  -->
 
 </div>
